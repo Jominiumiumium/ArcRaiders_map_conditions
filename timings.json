@@ -1,0 +1,539 @@
+[
+  {
+    "scenario": "BuriedCity",
+    "timings": [
+      {
+        "start_sec": 1769875200,
+        "start": "2026-01-31T17:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 208.39923201799394,
+        "conditionAssetId": "Bird_City"
+      },
+      {
+        "start_sec": 1769889600,
+        "start": "2026-01-31T21:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 448.39923201799394,
+        "conditionAssetId": "Lush Blooms"
+      },
+      {
+        "start_sec": 1769904000,
+        "start": "2026-02-01T01:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 688.3992320179939,
+        "conditionAssetId": "Bird_City"
+      },
+      {
+        "start_sec": 1769918400,
+        "start": "2026-02-01T05:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 928.3992320179939,
+        "conditionAssetId": "Lush Blooms"
+      },
+      {
+        "start_sec": 1769932800,
+        "start": "2026-02-01T09:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 1168.3992320179939,
+        "conditionAssetId": "Bird_City"
+      },
+      {
+        "start_sec": 1769947200,
+        "start": "2026-02-01T13:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 1408.3992320179939,
+        "conditionAssetId": "Lush Blooms"
+      }
+    ]
+  },
+  {
+    "scenario": "BuriedCity_OptIn",
+    "timings": [
+      {
+        "start_sec": 1769871600,
+        "start": "2026-01-31T16:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 148.39923201799394,
+        "conditionAssetId": "Nightraid"
+      },
+      {
+        "start_sec": 1769886000,
+        "start": "2026-01-31T20:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 388.39923201799394,
+        "conditionAssetId": "Nightraid"
+      },
+      {
+        "start_sec": 1769900400,
+        "start": "2026-02-01T00:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 628.3992320179939,
+        "conditionAssetId": "Nightraid"
+      },
+      {
+        "start_sec": 1769914800,
+        "start": "2026-02-01T04:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 868.3992320179939,
+        "conditionAssetId": "Nightraid"
+      },
+      {
+        "start_sec": 1769929200,
+        "start": "2026-02-01T08:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 1108.3992320179939,
+        "conditionAssetId": "Nightraid"
+      },
+      {
+        "start_sec": 1769943600,
+        "start": "2026-02-01T12:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 1348.3992320179939,
+        "conditionAssetId": "Nightraid"
+      }
+    ]
+  },
+  {
+    "scenario": "MountainCompound",
+    "timings": []
+  },
+  {
+    "scenario": "MountainCompound_OptIn",
+    "timings": [
+      {
+        "start_sec": 1769868000,
+        "start": "2026-01-31T15:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 88.39923201799392,
+        "conditionAssetId": "Nightraid"
+      },
+      {
+        "start_sec": 1769882400,
+        "start": "2026-01-31T19:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 328.39923201799394,
+        "conditionAssetId": "Nightraid"
+      },
+      {
+        "start_sec": 1769896800,
+        "start": "2026-01-31T23:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 568.3992320179939,
+        "conditionAssetId": "Nightraid"
+      },
+      {
+        "start_sec": 1769911200,
+        "start": "2026-02-01T03:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 808.3992320179939,
+        "conditionAssetId": "Nightraid"
+      },
+      {
+        "start_sec": 1769925600,
+        "start": "2026-02-01T07:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 1048.3992320179939,
+        "conditionAssetId": "Nightraid"
+      },
+      {
+        "start_sec": 1769940000,
+        "start": "2026-02-01T11:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 1288.3992320179939,
+        "conditionAssetId": "Nightraid"
+      }
+    ]
+  },
+  {
+    "scenario": "Spaceport",
+    "timings": [
+      {
+        "start_sec": 1769864400,
+        "start": "2026-01-31T14:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 28.399232017993928,
+        "conditionAssetId": "LaunchTowerLoot"
+      },
+      {
+        "start_sec": 1769871600,
+        "start": "2026-01-31T16:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 148.39923201799394,
+        "conditionAssetId": "Matriach"
+      },
+      {
+        "start_sec": 1769882400,
+        "start": "2026-01-31T19:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 328.39923201799394,
+        "conditionAssetId": "Harvester"
+      },
+      {
+        "start_sec": 1769893200,
+        "start": "2026-01-31T22:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 508.39923201799394,
+        "conditionAssetId": "Matriach"
+      },
+      {
+        "start_sec": 1769904000,
+        "start": "2026-02-01T01:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 688.3992320179939,
+        "conditionAssetId": "Harvester"
+      },
+      {
+        "start_sec": 1769907600,
+        "start": "2026-02-01T02:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 748.3992320179939,
+        "conditionAssetId": "LaunchTowerLoot"
+      },
+      {
+        "start_sec": 1769914800,
+        "start": "2026-02-01T04:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 868.3992320179939,
+        "conditionAssetId": "Matriach"
+      },
+      {
+        "start_sec": 1769925600,
+        "start": "2026-02-01T07:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 1048.3992320179939,
+        "conditionAssetId": "Harvester"
+      },
+      {
+        "start_sec": 1769936400,
+        "start": "2026-02-01T10:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 1228.3992320179939,
+        "conditionAssetId": "Matriach"
+      },
+      {
+        "start_sec": 1769947200,
+        "start": "2026-02-01T13:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 1408.3992320179939,
+        "conditionAssetId": "Harvester"
+      }
+    ]
+  },
+  {
+    "scenario": "Spaceport_OptIn",
+    "timings": [
+      {
+        "start_sec": 1769875200,
+        "start": "2026-01-31T17:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 208.39923201799394,
+        "conditionAssetId": "ElectroMagneticStorm"
+      },
+      {
+        "start_sec": 1769889600,
+        "start": "2026-01-31T21:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 448.39923201799394,
+        "conditionAssetId": "Nightraid"
+      },
+      {
+        "start_sec": 1769904000,
+        "start": "2026-02-01T01:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 688.3992320179939,
+        "conditionAssetId": "ElectroMagneticStorm"
+      },
+      {
+        "start_sec": 1769918400,
+        "start": "2026-02-01T05:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 928.3992320179939,
+        "conditionAssetId": "Nightraid"
+      },
+      {
+        "start_sec": 1769932800,
+        "start": "2026-02-01T09:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 1168.3992320179939,
+        "conditionAssetId": "ElectroMagneticStorm"
+      },
+      {
+        "start_sec": 1769947200,
+        "start": "2026-02-01T13:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 1408.3992320179939,
+        "conditionAssetId": "Nightraid"
+      }
+    ]
+  },
+  {
+    "scenario": "TheBlueGate",
+    "timings": [
+      {
+        "start_sec": 1769868000,
+        "start": "2026-01-31T15:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 88.39923201799392,
+        "conditionAssetId": "Matriach"
+      },
+      {
+        "start_sec": 1769878800,
+        "start": "2026-01-31T18:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 268.39923201799394,
+        "conditionAssetId": "Harvester"
+      },
+      {
+        "start_sec": 1769886000,
+        "start": "2026-01-31T20:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 388.39923201799394,
+        "conditionAssetId": "Lush Blooms"
+      },
+      {
+        "start_sec": 1769889600,
+        "start": "2026-01-31T21:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 448.39923201799394,
+        "conditionAssetId": "Matriach"
+      },
+      {
+        "start_sec": 1769900400,
+        "start": "2026-02-01T00:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 628.3992320179939,
+        "conditionAssetId": "Harvester"
+      },
+      {
+        "start_sec": 1769911200,
+        "start": "2026-02-01T03:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 808.3992320179939,
+        "conditionAssetId": "Matriach"
+      },
+      {
+        "start_sec": 1769922000,
+        "start": "2026-02-01T06:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 988.3992320179939,
+        "conditionAssetId": "Harvester"
+      },
+      {
+        "start_sec": 1769929200,
+        "start": "2026-02-01T08:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 1108.3992320179939,
+        "conditionAssetId": "Lush Blooms"
+      },
+      {
+        "start_sec": 1769932800,
+        "start": "2026-02-01T09:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 1168.3992320179939,
+        "conditionAssetId": "Matriach"
+      },
+      {
+        "start_sec": 1769943600,
+        "start": "2026-02-01T12:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 1348.3992320179939,
+        "conditionAssetId": "Harvester"
+      }
+    ]
+  },
+  {
+    "scenario": "TheBlueGate_OptIn",
+    "timings": [
+      {
+        "start_sec": 1769864400,
+        "start": "2026-01-31T14:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 28.399232017993928,
+        "conditionAssetId": "Hidden Bunker"
+      },
+      {
+        "start_sec": 1769878800,
+        "start": "2026-01-31T18:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 268.39923201799394,
+        "conditionAssetId": "Nightraid"
+      },
+      {
+        "start_sec": 1769893200,
+        "start": "2026-01-31T22:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 508.39923201799394,
+        "conditionAssetId": "Hidden Bunker"
+      },
+      {
+        "start_sec": 1769907600,
+        "start": "2026-02-01T02:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 748.3992320179939,
+        "conditionAssetId": "Nightraid"
+      },
+      {
+        "start_sec": 1769922000,
+        "start": "2026-02-01T06:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 988.3992320179939,
+        "conditionAssetId": "Hidden Bunker"
+      },
+      {
+        "start_sec": 1769936400,
+        "start": "2026-02-01T10:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 1228.3992320179939,
+        "conditionAssetId": "ElectroMagneticStorm"
+      }
+    ]
+  },
+  {
+    "scenario": "TheDam",
+    "timings": [
+      {
+        "start_sec": 1769864400,
+        "start": "2026-01-31T14:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 28.399232017993928,
+        "conditionAssetId": "Harvester"
+      },
+      {
+        "start_sec": 1769871600,
+        "start": "2026-01-31T16:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 148.39923201799394,
+        "conditionAssetId": "Lush Blooms"
+      },
+      {
+        "start_sec": 1769875200,
+        "start": "2026-01-31T17:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 208.39923201799394,
+        "conditionAssetId": "Matriach"
+      },
+      {
+        "start_sec": 1769886000,
+        "start": "2026-01-31T20:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 388.39923201799394,
+        "conditionAssetId": "Harvester"
+      },
+      {
+        "start_sec": 1769893200,
+        "start": "2026-01-31T22:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 508.39923201799394,
+        "conditionAssetId": "Lush Blooms"
+      },
+      {
+        "start_sec": 1769896800,
+        "start": "2026-01-31T23:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 568.3992320179939,
+        "conditionAssetId": "Matriach"
+      },
+      {
+        "start_sec": 1769907600,
+        "start": "2026-02-01T02:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 748.3992320179939,
+        "conditionAssetId": "Harvester"
+      },
+      {
+        "start_sec": 1769914800,
+        "start": "2026-02-01T04:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 868.3992320179939,
+        "conditionAssetId": "Lush Blooms"
+      },
+      {
+        "start_sec": 1769918400,
+        "start": "2026-02-01T05:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 928.3992320179939,
+        "conditionAssetId": "Matriach"
+      },
+      {
+        "start_sec": 1769929200,
+        "start": "2026-02-01T08:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 1108.3992320179939,
+        "conditionAssetId": "Harvester"
+      },
+      {
+        "start_sec": 1769936400,
+        "start": "2026-02-01T10:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 1228.3992320179939,
+        "conditionAssetId": "Lush Blooms"
+      },
+      {
+        "start_sec": 1769940000,
+        "start": "2026-02-01T11:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 1288.3992320179939,
+        "conditionAssetId": "Matriach"
+      }
+    ]
+  },
+  {
+    "scenario": "TheDam_FTUE",
+    "timings": [
+      {
+        "start_sec": 1757635200,
+        "start": "2025-09-12T01:00:00+01:00",
+        "durationMinutes": 10512000.0,
+        "timeLeftMinutes": 10308148.399232019,
+        "conditionAssetId": -1104549645
+      }
+    ]
+  },
+  {
+    "scenario": "TheDam_OptIn",
+    "timings": [
+      {
+        "start_sec": 1769868000,
+        "start": "2026-01-31T15:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 88.39923201799392,
+        "conditionAssetId": "ElectroMagneticStorm"
+      },
+      {
+        "start_sec": 1769882400,
+        "start": "2026-01-31T19:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 328.39923201799394,
+        "conditionAssetId": "Nightraid"
+      },
+      {
+        "start_sec": 1769896800,
+        "start": "2026-01-31T23:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 568.3992320179939,
+        "conditionAssetId": "ElectroMagneticStorm"
+      },
+      {
+        "start_sec": 1769911200,
+        "start": "2026-02-01T03:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 808.3992320179939,
+        "conditionAssetId": "Nightraid"
+      },
+      {
+        "start_sec": 1769925600,
+        "start": "2026-02-01T07:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 1048.3992320179939,
+        "conditionAssetId": "ElectroMagneticStorm"
+      },
+      {
+        "start_sec": 1769940000,
+        "start": "2026-02-01T11:00:00+01:00",
+        "durationMinutes": 60.0,
+        "timeLeftMinutes": 1288.3992320179939,
+        "conditionAssetId": "Nightraid"
+      }
+    ]
+  }
+]
